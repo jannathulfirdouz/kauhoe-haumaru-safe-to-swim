@@ -1,0 +1,6 @@
+{
+  "name": "Kauhoe Haumaru – Safe to Swim Auckland",
+  "description": "Mobile-friendly Auckland beach swim safety guide powered by Google Maps grounding and live Google Search grounding for Safeswim and Auckland Council water quality advisories, with bilingual English and te reo Māori labels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
